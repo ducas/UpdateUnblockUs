@@ -1,0 +1,21 @@
+{
+  "name": "unblock-me",
+  "version": "1.0.0",
+  "description": "Update unblock-us when your IP address changes.",
+  "main": "unblock-me.js",
+  "dependencies": {
+    "node-schedule": "^0.1.16",
+    "prompt": "^0.2.14",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducas/unblock-me"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ducas Francis <ducas@ducasfrancis.com>",
+  "license": "MIT"
+}
